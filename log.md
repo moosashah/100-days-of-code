@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
+#### <i>The Plan:</i>
+The focus of this round will primarily be on all fullstack web development.
+* CSS
+* React
+* Typescript
+* Node/Express
+* Nest
+* Jest
+* React testing-library
+---
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 21, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setting up for 100 Days of code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** This'll be my 4th attempt at 100 days of code. 
+1. Failed miserably, lasted a few days I think
+2. Completed
+3. Started learning python because I felt burnt out and wanted to learn something new but then got an Offer for a job so started working
+4. Working as a Junior Software engineer, its been almost 2 months, and I want to code outside of work on skills that'll help me for work and in the future.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<!-- how to add a link for work -->
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
