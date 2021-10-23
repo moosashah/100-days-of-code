@@ -30,7 +30,7 @@ For now I'm going to be focusing on CSS and move towards bringing designs to lif
 <!-- how to add a link for work -->
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 2: October 22,2021
+### Day 2: October 22, 2021
 
 **Today's Progress:** More CSS practise, made a bear today.
 
@@ -43,3 +43,9 @@ start adding a timer so that I'm not just spending hours making something with p
 Also need to figure out a script to quickly write this log rather than doing it manually everytime, best part about being a programmer, right? 🤓
 
 **Link to work:** [Bear | PureCSS CodePen](https://codepen.io/moosarshah/pen/abyBgKb)
+
+### Day 3: October 23, 2021
+
+**Today's Progress:** Did some vanilla javascript today with Javascript30 by Wes Bos? Drum Kit app
+
+**Thoughts:** The CSS and HTMl was already made but even though we were strictly working on JS and it was a tutorial, I still find it super useful working through things. From this little project I learnt about an event called transitionend which is super useful for triggering stuff like removing a class after the transformation has ended for example. I mean I definitely didn't do anywhere near as much as I would've wanted to but getting in the hour was good enough for me. I also had a really rough start to the day, getting out of bed at 2pm or something which is ridiculous from my normal 7-8am starts 🙃 ....
