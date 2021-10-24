@@ -49,3 +49,9 @@ Also need to figure out a script to quickly write this log rather than doing it 
 **Today's Progress:** Did some vanilla javascript today with Javascript30 by Wes Bos? Drum Kit app
 
 **Thoughts:** The CSS and HTMl was already made but even though we were strictly working on JS and it was a tutorial, I still find it super useful working through things. From this little project I learnt about an event called transitionend which is super useful for triggering stuff like removing a class after the transformation has ended for example. I mean I definitely didn't do anywhere near as much as I would've wanted to but getting in the hour was good enough for me. I also had a really rough start to the day, getting out of bed at 2pm or something which is ridiculous from my normal 7-8am starts 🙃 ....
+
+### Day 4: October 24, 2021
+
+**Today's Progress:** More Javascript30 by Wes Bos
+
+**Today's Progress:** I might just speed run all of the course in a few days because the tutorials are super short and simple.. Im taking them more so as understanding what can be done because I'm terrible at coming up with ideas.. So if I know what can be done it might be easier to think of features I want to implement or ideas in general 😊
